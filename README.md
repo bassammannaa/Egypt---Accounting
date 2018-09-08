@@ -1,2 +1,2 @@
-# Egypt---Accounting
+# Egypt Accounting
 Egypt Chart of account
